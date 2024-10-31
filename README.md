@@ -3,5 +3,7 @@ This is a KJSCE (K.J Somaiya College of Engineering) mini-project of WP-2(php) T
 
 ## Setting Up the Database
 1. Open phpMyAdmin and create a new database.
-2. Import `database/database.sql` to set up the tables and data.
+
+2. Import `database/faculty_system.sql` to set up the tables and data.
+
 3. Update the database connection settings in `db.php` to match your database configuration.
